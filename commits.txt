@@ -1,0 +1,5 @@
+31 / Outubro / 2018 (Inicio do Projeto de Licenciatura em Engenharia Informática)
+
+Commit 1(31-10-2018,11h52):
+-Neste primeiro commit, organizei todas as pastas e e criei o ficheiro inicial no Visual Studio,
+ o Também dei Inicio ao Relatório.
