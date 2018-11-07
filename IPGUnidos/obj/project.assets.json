@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\LICENCIATURA\\PROJETO FINAL\\IPGUnidos\\IPGUnidos.csproj",
+      "projectUniqueName": "D:\\Repositorios\\GitHub\\Escola\\CONCLUSAO\\Projeto-Final-\\IPGUnidos\\IPGUnidos.csproj",
       "projectName": "IPGUnidos",
-      "projectPath": "C:\\Users\\Asus\\OneDrive\\LICENCIATURA\\PROJETO FINAL\\IPGUnidos\\IPGUnidos.csproj",
+      "projectPath": "D:\\Repositorios\\GitHub\\Escola\\CONCLUSAO\\Projeto-Final-\\IPGUnidos\\IPGUnidos.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\OneDrive\\LICENCIATURA\\PROJETO FINAL\\IPGUnidos\\obj\\",
+      "outputPath": "D:\\Repositorios\\GitHub\\Escola\\CONCLUSAO\\Projeto-Final-\\IPGUnidos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
