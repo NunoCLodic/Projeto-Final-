@@ -62,3 +62,35 @@ C:\Users\Asus\OneDrive\LICENCIATURA\PROJETO FINAL\IPGUnidos\obj\Debug\netcoreapp
 C:\Users\Asus\OneDrive\LICENCIATURA\PROJETO FINAL\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.dll
 C:\Users\Asus\OneDrive\LICENCIATURA\PROJETO FINAL\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.pdb
 C:\Users\Asus\OneDrive\LICENCIATURA\PROJETO FINAL\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.csproj.CopyComplete
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.deps.json
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.runtimeconfig.json
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.runtimeconfig.dev.json
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.dll
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.pdb
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.Views.dll
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\bin\Debug\netcoreapp2.1\IPGUnidos.Views.pdb
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.csprojAssemblyReference.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.csproj.CoreCompileInputs.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.RazorAssemblyInfo.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.RazorAssemblyInfo.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.AssemblyInfoInputs.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.AssemblyInfo.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.TagHelpers.input.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.TagHelpers.output.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.RazorCoreGenerate.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.RazorTargetAssemblyInfo.cache
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.RazorTargetAssemblyInfo.cs
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.Views.pdb
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.dll
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.pdb
+D:\Repositorios\GitHub\Escola\CONCLUSAO\Projeto-Final-\IPGUnidos\obj\Debug\netcoreapp2.1\IPGUnidos.csproj.CopyComplete
