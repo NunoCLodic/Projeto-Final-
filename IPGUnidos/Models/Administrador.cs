@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 
 namespace IPGUnidos.Models
 {
-    public class Administrador : Pessoa
+    public class Administrador : Usuario
     {
-        public int AdministradorID { get; set; }
-        public int Escola { get; set; }
+        public int administradorID { get; set; }
+        public string funcao { get; set; }
+        public DateTime entrada { get; set; }
+        public int escola { get; set; }
     }
 }

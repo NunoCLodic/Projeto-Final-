@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace IPGUnidos.Models
 {
-    public class Senhorio : Pessoa
+    public class Senhorio : Usuario
     {
-        public int SenhorioID { get; set; }
-        public Residencia IDResidencia { get; set; }
+        public int senhorioID { get; set; }
+        public Residencia residenciaID { get; set; }
 
         public ICollection<Residencia> ListaResidenciaSenhorio { get; set; }
     }

@@ -5,13 +5,13 @@ using System.Threading.Tasks;
 
 namespace IPGUnidos.Models
 {
-    public class Estudante : Pessoa
+    public class Estudante : Usuario
     {
-        public int EstudanteID { get; set; }
-        public int Nif { get; set; }
-        public string Curso { get; set; }
-        public string Escola { get; set; }
-        public int Ano { get; set; }
-        public Residencia IDResidencia { get; set; }
+        public int estudanteID { get; set; }
+        public int nif { get; set; }
+        public string curso { get; set; }
+        public string escola { get; set; }
+        public int ano { get; set; }
+        public Residencia residenciaID { get; set; }
     }
 }
